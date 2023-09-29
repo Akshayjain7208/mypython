@@ -1,0 +1,2 @@
+# mypython
+just for learning
